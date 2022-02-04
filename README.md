@@ -8,7 +8,7 @@ I'm José and I am a Full Stack Web Developer based out of Southern California a
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have a problem with collecting laptops 😭, oh and btw I run Arch 😝
 
-![j-Riv's github stats](https://github-readme-stats.vercel.app/api?username=j-Riv&theme=dark&show_icons=true&count_private=true)
+![j-Riv's github stats](https://github-readme-stats.vercel.app/api?username=j-Riv&theme=github_dark&show_icons=true&count_private=true)
 
 <!--
 **j-Riv/j-Riv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
