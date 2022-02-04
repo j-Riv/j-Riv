@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm José and I am a Full Stack Web Developer based out of Southern California and currently employed at Suavecito, Inc. I'm a Linux enthusiast, I enjoy tinkering and breaking things to see how they work. 
+
+- 👀 I'm interested in automation, iot, computers, motorcyles, dogs 
+- 🌱 I’m currently learning Kubernetes on a Raspberry Pi 4 Cluster
+- 📫 How to reach me: jose.alfredo.rivera@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I have 2 dogs 🐶 [Henry](https://instagram.com/puganddestroy) and 🐺 [Nero](https://instagram.com/nerothedestroyer)
+
 <!--
 **j-Riv/j-Riv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
