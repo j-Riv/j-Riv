@@ -6,7 +6,7 @@ I'm José and I am a Full Stack Web Developer based out of Southern California a
 - 🌱 I’m currently learning Kubernetes on a Raspberry Pi 4 Cluster
 - 📫 How to reach me: jose.alfredo.rivera@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I have a problem with collecting laptops 😭, oh and btw I run Arch 😝
+- ⚡ Oh and btw I run Arch 😝
 
 ![j-Riv's github stats](https://github-readme-stats.vercel.app/api?username=j-Riv&theme=github_dark&show_icons=true&count_private=true)
 
